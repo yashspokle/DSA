@@ -37,7 +37,7 @@ class Stack {
     }
 
     public static void main(String[] args) {
-        Main stack = new Main();
+        Stack stack = new Stack();
         stack.push(11);
         stack.push(22);
         stack.push(33);
@@ -51,4 +51,5 @@ class Stack {
         stack.pop();
         stack.peep();
     }
+
 }
