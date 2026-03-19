@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashspokle/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -21,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashspokle/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
