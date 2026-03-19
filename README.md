@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashspokle/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 ## Stack
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -38,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
