@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
