@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -74,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
