@@ -16,14 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashspokle/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashspokle/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashspokle/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
