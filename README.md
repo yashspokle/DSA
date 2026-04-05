@@ -99,5 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashspokle/DSA/tree/master/0344-reverse-string) |
+| [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
