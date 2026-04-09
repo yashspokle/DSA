@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
