@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/yashspokle/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
