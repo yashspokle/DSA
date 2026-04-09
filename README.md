@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
