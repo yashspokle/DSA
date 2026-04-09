@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 ## Breadth-First Search
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Union-Find
 |  |
 | ------- |
