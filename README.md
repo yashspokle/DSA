@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [0344-reverse-string](https://github.com/yashspokle/DSA/tree/master/0344-reverse-string) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/yashspokle/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashspokle/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
 ## Recursion
