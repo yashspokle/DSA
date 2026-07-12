@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+| [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 ## Merge Sort
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
+| [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
