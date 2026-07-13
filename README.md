@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashspokle/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/yashspokle/DSA/tree/master/0344-reverse-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashspokle/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/yashspokle/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/yashspokle/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
