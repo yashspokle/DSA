@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/yashspokle/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/yashspokle/DSA/tree/master/0344-reverse-string) |
+| [0551-student-attendance-record-i](https://github.com/yashspokle/DSA/tree/master/0551-student-attendance-record-i) |
 | [0784-letter-case-permutation](https://github.com/yashspokle/DSA/tree/master/0784-letter-case-permutation) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/yashspokle/DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Backtracking
