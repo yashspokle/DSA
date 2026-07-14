@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashspokle/DSA/tree/master/0258-add-digits) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/yashspokle/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yashspokle/DSA/tree/master/0060-permutation-sequence) |
+| [0258-add-digits](https://github.com/yashspokle/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashspokle/DSA/tree/master/0263-ugly-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/yashspokle/DSA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashspokle/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
