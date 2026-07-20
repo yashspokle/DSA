@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/yashspokle/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashspokle/DSA/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/yashspokle/DSA/tree/master/1260-shift-2d-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/yashspokle/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/yashspokle/DSA/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/yashspokle/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
