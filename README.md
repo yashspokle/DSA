@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashspokle/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yashspokle/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashspokle/DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yashspokle/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashspokle/DSA/tree/master/0130-surrounded-regions) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashspokle/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/yashspokle/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/yashspokle/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yashspokle/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashspokle/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/yashspokle/DSA/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashspokle/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashspokle/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
