@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashspokle/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashspokle/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashspokle/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashspokle/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/yashspokle/DSA/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/yashspokle/DSA/tree/master/0344-reverse-string) |
