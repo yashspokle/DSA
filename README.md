@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/yashspokle/DSA/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/yashspokle/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/yashspokle/DSA/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/yashspokle/DSA/tree/master/1148-article-views-i) |
 | [1693-daily-leads-and-partners](https://github.com/yashspokle/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashspokle/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yashspokle/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
