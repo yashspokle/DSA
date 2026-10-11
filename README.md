@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashspokle/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashspokle/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/yashspokle/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashspokle/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/yashspokle/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashspokle/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yashspokle/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/yashspokle/DSA/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
