@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/yashspokle/DSA/tree/master/2191-sort-the-jumbled-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashspokle/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashspokle/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashspokle/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashspokle/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yashspokle/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/yashspokle/DSA/tree/master/0126-word-ladder-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashspokle/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yashspokle/DSA/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashspokle/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/yashspokle/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3945-digit-frequency-score](https://github.com/yashspokle/DSA/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yashspokle/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/yashspokle/DSA/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/yashspokle/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashspokle/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/yashspokle/DSA/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashspokle/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashspokle/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashspokle/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
